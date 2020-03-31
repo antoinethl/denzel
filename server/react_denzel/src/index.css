@@ -1,0 +1,82 @@
+
+body {
+    font-family: "open_sans", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: normal;
+    color: #191919;
+    margin: 40px 15% 40px 15%;
+    background-color: #f2f2f2;
+}
+
+img {
+    max-width:5%;
+    height:auto;
+    vertical-align:bottom;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.specialities {
+	white-space: pre-wrap;
+	white-space: pre-line;
+}
+
+.restaurant {
+	background-color: white;
+	margin: 30px 300px 30px 300px;
+	padding: 30px 100px 30px 100px;
+	border: 1px solid black;
+}
+
+header {
+    padding: 35px 20px 10px 20px;
+    background-color: black;
+    margin-bottom: 60px;
+}
+
+.h3-1 {
+    color: white;
+}
+
+tr, td {
+    border: 1px solid black;
+    font-style: bold; 
+}
+
+th {
+  text-align: left;
+}
+
+.tab1 {   
+    margin-bottom: 2%;
+        width: 90%;
+}
+
+.td1 {
+    width: 45%;
+}
+
+.input1 {
+    color: #333;
+    background: white;
+    font-size: 15px;
+    font-weight: 400;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px solid #f3f3f3;
+    padding: 18px 6px;
+    height: 45px;
+    width: 75%;
+    text-decoration: none!important;
+    outline: 0;
+    cursor: pointer;
+}
+
